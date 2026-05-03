@@ -55,7 +55,7 @@ The primary objective is to enable **risk-based decision-making** by examining k
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard/banking_dashboard.png)
+![Dashboard](Dashboard/Dashboard.png.png)
 
 ---
 
