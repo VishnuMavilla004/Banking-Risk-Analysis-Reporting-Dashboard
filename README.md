@@ -8,6 +8,12 @@ The primary objective is to enable **risk-based decision-making** by examining k
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard](Dashboard/Dashboard.png.png)
+
+---
+
 ## 🎯 Objectives
 
 - Identify customers with **high probability of default**
@@ -53,11 +59,6 @@ The primary objective is to enable **risk-based decision-making** by examining k
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](Dashboard/Dashboard.png.png)
-
----
 
 ## 🧠 Key Insights
 
